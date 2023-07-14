@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(2, 2, 2);
+}
+
+#kd{
+
+    display: flex;
+   justify-content:center;
+   height: 400px;
+   align-items: center;
+
+
+}
